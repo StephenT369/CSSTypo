@@ -1,0 +1,20 @@
+.para1{
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-size: 25pt;
+font-weight: bold;
+line-height: 35pt;
+}
+
+.para2{
+font-family: Arial, Helvetica, sans-serif;
+font-size: 45pt;
+font-weight: bolder;
+line-height: 40pt;
+}
+
+.para3{
+font-family: cursive;
+font-size: 55pt;
+font-weight: 600;
+line-height: 45pt;
+}
